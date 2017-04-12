@@ -1,0 +1,61 @@
+layout_spectrum: 0.12863200807621203
+typography_spectrum: 0.1419512601740806
+color:
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.1646430960629541
+  lightness: 0.1777561896944437
+  saturation: 0.21132989062060886
+  rhythmicContrast: 0.6362309722923258
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Clock'd
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://static1.squarespace.com/static/51a382c0e4b00f442893a723/t/54cc1f8ae4b008593cca317b/1422663564366/madeinmoments.bratislava.hipster">
+    src: >-
+      https://static1.squarespace.com/static/51a382c0e4b00f442893a723/t/54cc1f8ae4b008593cca317b/1422663564366/madeinmoments.bratislava.hipster
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://static1.squarespace.com'
+        name: Squarespace
+        favicon: null
+        domain: static1.squarespace.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://static1.squarespace.com/static/51a382c0e4b00f442893a723/t/54cc1f8ae4b008593cca317b/1422663564366/madeinmoments.bratislava.hipster
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Clock'd
+description: Getting a job shouldn't be a job
+purpose:
+  - type: internal
+    label: Join The Beta
+    item: 19a50e3e-d14c-474a-b8b7-1e9b9ae0790a
+url: 'http://clockd.com'
+author:
+  name: Admin
+  email: info@clockd.com
+github: true
+analytics:
+  google: UA-97246733-1
