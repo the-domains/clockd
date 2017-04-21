@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: 'Version Date: March 04, 2017'
-dateModified: '2017-04-21T01:22:31.304Z'
-datePublished: '2017-04-21T01:22:33.790Z'
+dateModified: '2017-04-21T01:22:48.623Z'
+datePublished: '2017-04-21T01:22:49.351Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2017-04-21-version-date-march-04-2017.md
 starred: false
 datePublishedOriginal: '2017-04-21T01:22:08.297Z'
 url: version-date-march-04-2017/index.html
-_type: Blurb
+_type: Article
 
 ---
 Version Date: March 04, 2017
