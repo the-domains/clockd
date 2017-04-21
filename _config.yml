@@ -1,4 +1,3 @@
-layout_spectrum: 0.12863200807621203
 typography_spectrum: 0.1419512601740806
 color:
   brandColors:
@@ -11,6 +10,17 @@ color:
   lightness: 0.1777561896944437
   saturation: 0.21132989062060886
   rhythmicContrast: 0.6362309722923258
+github: true
+layout_spectrum: 0.12863200807621203
+analytics:
+  google: UA-97246733-1
+author:
+  name: Admin
+  email: info@clockd.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe0f327c-c23c-4e3c-bb56-bebb1bf59ade.png
+name: Clock'd
+url: 'http://clockd.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +28,11 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Clock'd
+navigation:
+  - name: Employer Sign-Up
+    url: 'https://form.jotform.com/71078036884160'
+    type: external
+title: Clock'd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,25 +42,24 @@ content:
     src: >-
       https://static1.squarespace.com/static/51a382c0e4b00f442893a723/t/54cc1f8ae4b008593cca317b/1422663564366/madeinmoments.bratislava.hipster
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: >-
+        https://static1.squarespace.com/static/51a382c0e4b00f442893a723/t/54cc1f8ae4b008593cca317b/1422663564366/madeinmoments.bratislava.hipster
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://static1.squarespace.com'
         name: Squarespace
         favicon: null
         domain: static1.squarespace.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://static1.squarespace.com/static/51a382c0e4b00f442893a723/t/54cc1f8ae4b008593cca317b/1422663564366/madeinmoments.bratislava.hipster
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Clock'd
 description: Getting a job shouldn't be a job
 purpose:
   - type: external
@@ -55,10 +68,3 @@ purpose:
   - type: external
     label: Looking To Fill A Job?
     url: 'https://form.jotform.us/71078036884160'
-url: 'http://clockd.com'
-author:
-  name: Admin
-  email: info@clockd.com
-github: true
-analytics:
-  google: UA-97246733-1
