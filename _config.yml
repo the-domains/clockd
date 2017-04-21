@@ -28,10 +28,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Student Sign-Up
-    url: 'https://form.jotform.com/70904635618157'
-    type: external
 title: Clock'd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
