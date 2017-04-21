@@ -27,10 +27,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Terms And Conditions
-    id: 8215c7ec-fa05-4fe2-b715-1c713c65c492
-    type: content
 title: Clock'd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
