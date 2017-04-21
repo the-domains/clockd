@@ -17,8 +17,7 @@ analytics:
 author:
   name: Admin
   email: info@clockd.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe0f327c-c23c-4e3c-bb56-bebb1bf59ade.png
+logo: null
 name: Clock'd
 url: 'http://clockd.com'
 colors:
@@ -28,10 +27,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Contact Us
-    url: 'https://mailto:info@clockd.com'
-    type: external
 title: Clock'd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
