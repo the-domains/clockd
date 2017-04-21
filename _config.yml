@@ -32,6 +32,9 @@ navigation:
   - name: Employer Sign-Up
     url: 'https://form.jotform.com/71078036884160'
     type: external
+  - name: Student Sign-Up
+    url: 'https://form.jotform.com/70904635618157'
+    type: external
 title: Clock'd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
