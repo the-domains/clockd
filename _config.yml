@@ -27,10 +27,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Student Application
-    id: fcadee4c-7098-432a-82e1-0c3b26a5d0c0
-    type: content
 title: Clock'd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
