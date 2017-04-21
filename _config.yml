@@ -52,9 +52,9 @@ purpose:
   - type: internal
     label: Looking For A Job?
     item: 19a50e3e-d14c-474a-b8b7-1e9b9ae0790a
-  - type: internal
+  - type: external
     label: Looking To Fill A Job?
-    item: fa13253b-f2c1-45aa-ac66-a7d241db2775
+    url: 'https://form.jotform.us/71078036884160'
 url: 'http://clockd.com'
 author:
   name: Admin
