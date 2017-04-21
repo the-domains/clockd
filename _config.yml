@@ -29,9 +29,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Employer Sign-Up
-    url: 'https://form.jotform.com/71078036884160'
-    type: external
   - name: Student Sign-Up
     url: 'https://form.jotform.com/70904635618157'
     type: external
