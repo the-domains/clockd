@@ -49,9 +49,9 @@ content:
 title: Clock'd
 description: Getting a job shouldn't be a job
 purpose:
-  - type: internal
+  - type: external
     label: Looking For A Job?
-    item: 19a50e3e-d14c-474a-b8b7-1e9b9ae0790a
+    url: 'https://form.jotform.us/70904635618157'
   - type: external
     label: Looking To Fill A Job?
     url: 'https://form.jotform.us/71078036884160'
