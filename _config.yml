@@ -28,6 +28,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: Contact Us
+    url: 'https://mailto:info@clockd.com'
+    type: external
 title: Clock'd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
